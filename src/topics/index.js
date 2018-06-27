@@ -5,4 +5,4 @@ req.keys().forEach(key => {
   topics.push(req(key))
 })
 
-export default topics
+export default topics 

@@ -2,6 +2,9 @@ const webpack = require('webpack')
 const path = require('path')
 const CopyWebpackPlugin = require('copy-webpack-plugin')
 
+process.traceDeprecation = true 
+process.noDeprecation = true
+
 module.exports = {
   entry: './src/main.js',
   output: {

@@ -3,15 +3,20 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="135px" height="35px" viewBox="0 0 135 35" enable-background="new 0 0 135 35" xml:space="preserve">
-<image overflow="visible" width="157" height="125" xlink:href="C:\Users\USER\Desktop\Untitled-2.png"  transform="matrix(0.1592 0 0 0.28 0 0)">
-</image>
 <g id="Layer_1_1_">
 	<title>Group 3</title>
 	<desc>Created with Sketch.</desc>
 	<g id="Page-1">
 		<g id="Desktop-HD-Copy" transform="translate(-837.000000, -365.000000)">
 			<g id="Group-3" transform="translate(837.000000, 365.000000)">
-				<text transform="matrix(0.4791 0 0 1 27.9043 32.3955)" fill="#151516" font-family="'Impact'" font-size="37.57">Search Textile</text>
+				<g id="Group-2" display="none">
+					<path id="Path-4" opacity="0.2932" fill="#4A8BFA" enable-background="new    " d="M-45.093,82.279l11.297,22.146
+						c0.636,1.247,2.292,1.328,2.858,0.137l8.761-18.424c0.487-1.022-0.176-2.322-1.29-2.529l-20.058-3.724
+						C-44.822,79.646-45.73,81.03-45.093,82.279z"/>
+					<path id="Path-4_1_" fill="#5192FF" d="M-73.5,47.456v28c0,1.58,1.778,2.506,3.072,1.601l20-14c1.11-0.777,1.11-2.423,0-3.199
+						l-20-14C-71.722,44.951-73.5,45.876-73.5,47.456z"/>
+				</g>
+				<text transform="matrix(0.8676 0 0 1 1.9995 28.9453)" fill="#333333" font-family="'Impact'" font-size="26.3323">Search Textile</text>
 			</g>
 		</g>
 	</g>

@@ -10,7 +10,7 @@ header.nav.header
       .nav-item
         a.button(:href="'https://github.com/' + app.github.repo", target="_blank")
           span.icon
-            i.ion-social-github
+            i.ion-social-facebook
           span GitHub
         a.button(:href="'https://twitter.com/intent/tweet?text=' + app.twitter.tweet + '&url=' + app.url + '&via=' + app.twitter.username", target="_blank")
           span.icon

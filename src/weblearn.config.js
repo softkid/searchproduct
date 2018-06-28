@@ -1,12 +1,12 @@
 const env = (process.env.NODE_ENV === 'production') ? require('../.env.production') : require('../.env.local')
 const baseUri = 'https://www.googleapis.com/youtube/v3'
 const apiKey = env.YOUTUBE_API_KEY
-const title = 'Search Textile: it\'s like YouTube Product, but for Buyers and Supplier'
+const title = 'searchtextile: it\'s like YouTube Product, but for Buyers and Supplier'
 const tweet = encodeURIComponent(title)
 
 export default {
   app: {
-    name: 'Search Textile',
+    name: 'searchtextile',
     url: 'http://www.searchtextile.com',
     title: title,
     description: 'Search Textile is an free service which provides simple access to thousands of video products on textile.',

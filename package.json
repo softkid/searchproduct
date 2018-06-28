@@ -1,6 +1,6 @@
 {
-  "name": "web-learn",
-  "author": "Arhey <free.arhey@gmail.com>",
+  "name": "Search Textile",
+  "author": "Stanly <softkids@naver.com>",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
@@ -53,17 +53,17 @@
     "webpack-dev-server": "^2.1.0-beta.12",
     "yaml-loader": "^0.4.0"
   },
-  "description": "Web Learn is an open source service which provides simple access to thousands of video lessons on web developing and programming.",
+  "description": "SearchTextile is an free service which provides simple access to thousands of video company on textile.",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freearhey/web-learn.git"
+    "url": "git+https://github.com/softkids/searchproduct.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/freearhey/web-learn/issues"
+    "url": "https://github.com/softkids/searchproduct/issues"
   },
-  "homepage": "https://github.com/freearhey/web-learn#readme"
+  "homepage": "https://github.com/softkids/searchproduct#readme"
 }

@@ -2,7 +2,7 @@
   footer.footer
     .container
       .content.has-text-centered
-        p Designed by #[ {{ app.author }} ]  Licensed SEARCH TEXTILE ]. 
+        p Designed by #[ {{ app.author }} ]  Licensed SEARCH TEXTILE 
 </template>
 
 <script>

@@ -1,13 +1,13 @@
 {
-  "name": "SearchTextile",
-  "author": "Stanly Kim <softkids@naver.com>",
+  "name": "searchtextile",
+  "author": "Stanly <softkids@naver.com>",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "npm": "^6.1.0"
+    "python": "0.0.4"
   },
   "devDependencies": {
     "animate.css": "^3.5.2",
@@ -36,7 +36,7 @@
     "moment": "^2.17.1",
     "moment-duration-format": "^1.3.0",
     "nl2br": "^0.0.3",
-    "node-sass": "^4.9.0",
+    "node-sass": "^3.13.1",
     "numeral": "^2.0.1",
     "pug": "^2.0.0-beta6",
     "sass-loader": "^4.0.2",
@@ -53,17 +53,17 @@
     "webpack-dev-server": "^2.1.0-beta.12",
     "yaml-loader": "^0.4.0"
   },
-  "description": "Web Learn is an open source service which provides simple access to thousands of video lessons on web developing and programming.",
+  "description": "SearchTextile is an free service which provides simple access to thousands of video company on textile.",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/softkid/searchproduct.git"
+    "url": "git+https://github.com/softkids/searchproduct.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/softkid/searchproduct/issues"
+    "url": "https://github.com/softkids/searchproduct/issues"
   },
-  "homepage": "https://github.com/softkid/searchproduct#readme"
+  "homepage": "https://github.com/softkids/searchproduct#readme"
 }

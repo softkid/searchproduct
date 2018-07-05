@@ -2,7 +2,11 @@
 .Search
   typeahead(
     :items="suggestions",
+<<<<<<< HEAD
     placeholder="Search topics, channels, and videos"
+=======
+    placeholder="Search supplier, buyer, and product"
+>>>>>>> 87904cfcc6c599c6286699bba58afcaad7d7e8ed
     @hit="search",
     @type="fetchSuggestions"
   )
